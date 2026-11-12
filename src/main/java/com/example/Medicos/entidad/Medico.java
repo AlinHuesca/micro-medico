@@ -22,6 +22,6 @@ public class Medico {
 	private int edad;
 	private String especialidad;
 	private String area;
-	private int numeroClininca;
+	private int numeroClinica;
 
 }
